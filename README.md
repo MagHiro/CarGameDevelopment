@@ -1,9 +1,10 @@
 # <b> Virtual Reality and Game Development </b>
 
 <b> Muhammad Rafi Pratomo </b>
+<br>
 <b> 001202100130 </b>
-<br></br>
-<h2> Intro </h2>
-<p> This game was created to satisfy requirement for Game Development Course. The game will be expanded even more after graded and will be completed aswell for Final Project Purpose.
-<br></br>
-<p> Thanks for visiting</p>
+
+<h2> Introduction </h2>
+<p> 
+This game was developed to fulfill the requirements of a Game Development Course, and there are currently no intentions for its future expansion or development. </p>
+<b> Thanks for Visiting</b>
